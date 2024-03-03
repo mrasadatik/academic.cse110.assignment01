@@ -5,9 +5,9 @@ This project includes solutions for various programming tasks given in assignmen
 
 **Checklist**
 
-- ✅ Assignment 1: Random Month ➡ [Source code](./app/src/main/java/academic/cse110/assignment01/assignments/T01_RandomMonth.java)
-- ✅ Assignment 2: Lottery ➡ [Source code](.app/src/main/java/academic/cse110/assignment01/assignments/T02_Lottery.java)
-- ✅ Assignment 3: Game - Rock, Paper, Scissors ➡ [Source code](./app/src/main/java/academic/cse110/assignment01/assignments/T03_GameRockPaperScissors.java)
+- ✅ Assignment 1: [Random Month](./app/src/main/java/academic/cse110/assignment01/assignments/T01_RandomMonth.java)
+- ✅ Assignment 2: [Lottery](.app/src/main/java/academic/cse110/assignment01/assignments/T02_Lottery.java)
+- ✅ Assignment 3: [Game - Rock, Paper, Scissors](./app/src/main/java/academic/cse110/assignment01/assignments/T03_GameRockPaperScissors.java)
 - 🚧 Assignment 4: Point Inside Circle
 - 🚧 Assignment 5: Area of a Regular Polygon
 - 🚧 Assignment 6: Unicode Conversion
@@ -36,3 +36,4 @@ This project is licensed under the MIT License. See the [`LICENSE`](/LICENSE) fi
 ### Disclaimer
 
 **Please note:** This project currently does not have any automated or unit test implementation. While the program functions as intended, future development efforts might include the addition of testing frameworks for improved code reliability and maintainability.
+
