@@ -12,7 +12,7 @@ This project includes solutions for various programming tasks given in assignmen
 - ✅ Assignment 5: [Area of a Regular Polygon](./app/src/main/java/academic/cse110/assignment01/assignments/T05_AreaRegularPolygon.java)
 - ✅ Assignment 6: [Unicode Conversion](./app/src/main/java/academic/cse110/assignment01/assignments/T06_UnicodeConversion.java)
 - ✅ Assignment 7: [Hex to Binary](./app/src/main/java/academic/cse110/assignment01/assignments/T07_HexToBinary.java)
-- 🚧 Assignment 8: Order Three Cities
+- ✅ Assignment 8: [Order Three Cities](./app/src/main/java/academic/cse110/assignment01/assignments/T08_OrderThreeCities.java)
 - 🚧 Assignment 9: Generate Vehicle Plate Numbers
 - 🚧 Assignment 10: Display the ASCII Character Table
 - 🚧 Assignment 11: Financial Application: Compare Loans
