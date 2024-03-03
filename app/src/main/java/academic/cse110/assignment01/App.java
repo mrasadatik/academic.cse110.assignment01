@@ -10,6 +10,7 @@ import academic.cse110.assignment01.assignments.T06_UnicodeConversion;
 import academic.cse110.assignment01.assignments.T07_HexToBinary;
 import academic.cse110.assignment01.assignments.T08_OrderThreeCities;
 import academic.cse110.assignment01.assignments.T09_GenerateVehiclePlateNumbers;
+import academic.cse110.assignment01.assignments.T10_ASCIICharacterTable;
 
 public class App {
     public static void main(String[] args) {
@@ -40,6 +41,7 @@ public class App {
                 System.out.println("\t7. Hex to Binary");
                 System.out.println("\t8. Order Three Cities");
                 System.out.println("\t9. Generate Vehicle Plate Numbers");
+                System.out.println("\t10. Display the ASCII Character Table");
                 
                 System.out.println("\t0. Exit");
                 System.out.print("\nEnter your choice: ");
@@ -59,6 +61,7 @@ public class App {
                     case 7 -> T07_HexToBinary.convertHextToBinary(cliInput);
                     case 8 -> T08_OrderThreeCities.orderCities(cliInput);
                     case 9 -> T09_GenerateVehiclePlateNumbers.generatePlateNumber();
+                    case 10 -> T10_ASCIICharacterTable.displayASCIICharacterTable();
                     case 0 -> {
                         System.out.println("Exiting the program...");
                         break;
