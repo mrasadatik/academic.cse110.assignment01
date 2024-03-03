@@ -1,7 +1,7 @@
 
 **Assignment**
 
-This project includes solutions for various programming tasks given in assignment 01 for the course CSE110. I can access the assignments through a menu system within the [main program](./app/src/main/java/academic/cse110/assignment01/App.java). Explore the project codes by this [PDF](./app/src/main/resources/Assignment%2001.pdf).
+This project includes solutions for various programming tasks given in assignment 01 for the course CSE110. I can access the assignments through a menu system within the [main program](./app/src/main/java/academic/cse110/assignment01/App.java). Explore the project codes using this [PDF](./app/src/main/resources/Assignment%2001.pdf).
 
 **Checklist**
 
