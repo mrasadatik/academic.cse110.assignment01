@@ -13,7 +13,7 @@ This project includes solutions for various programming tasks given in assignmen
 - ✅ Assignment 6: [Unicode Conversion](./app/src/main/java/academic/cse110/assignment01/assignments/T06_UnicodeConversion.java)
 - ✅ Assignment 7: [Hex to Binary](./app/src/main/java/academic/cse110/assignment01/assignments/T07_HexToBinary.java)
 - ✅ Assignment 8: [Order Three Cities](./app/src/main/java/academic/cse110/assignment01/assignments/T08_OrderThreeCities.java)
-- 🚧 Assignment 9: Generate Vehicle Plate Numbers
+- ✅ Assignment 9: [Generate Vehicle Plate Numbers](./app/src/main/java/academic/cse110/assignment01/assignments/T09_GenerateVehiclePlateNumbers.java)
 - 🚧 Assignment 10: Display the ASCII Character Table
 - 🚧 Assignment 11: Financial Application: Compare Loans
 - 🚧 Assignment 12: Compute e

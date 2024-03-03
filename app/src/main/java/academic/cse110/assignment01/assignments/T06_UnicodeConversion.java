@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author mrasadatik
  */
 public class T06_UnicodeConversion {
-    public static void convertAndDisplayUnicode(Scanner scanner) {
+    public static void convertCharToUnicode(Scanner scanner) {
         System.out.print("Enter a character: ");
         char inputChar = scanner.next().charAt(0);
         

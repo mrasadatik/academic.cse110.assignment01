@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author mrasadatik
  */
 public class T05_AreaRegularPolygon {
-    public static void calculateAndDisplayPolygonArea(Scanner scanner) {
+    public static void calculatePolygonArea(Scanner scanner) {
         int n;
         double s;
         

@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author mrasadatik
  */
 public class T08_OrderThreeCities {
-    public static void orderAndDisplayCities(Scanner scanner) {
+    public static void orderCities(Scanner scanner) {
         scanner.nextLine();
         
         System.out.print("Enter the first city: ");

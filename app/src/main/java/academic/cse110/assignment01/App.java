@@ -9,6 +9,7 @@ import academic.cse110.assignment01.assignments.T05_AreaRegularPolygon;
 import academic.cse110.assignment01.assignments.T06_UnicodeConversion;
 import academic.cse110.assignment01.assignments.T07_HexToBinary;
 import academic.cse110.assignment01.assignments.T08_OrderThreeCities;
+import academic.cse110.assignment01.assignments.T09_GenerateVehiclePlateNumbers;
 
 public class App {
     public static void main(String[] args) {
@@ -38,6 +39,7 @@ public class App {
                 System.out.println("\t6. Unicode Conversion");
                 System.out.println("\t7. Hex to Binary");
                 System.out.println("\t8. Order Three Cities");
+                System.out.println("\t9. Generate Vehicle Plate Numbers");
                 
                 System.out.println("\t0. Exit");
                 System.out.print("\nEnter your choice: ");
@@ -49,13 +51,14 @@ public class App {
                 
                 switch(assignmentChoice) {
                     case 1 -> T01_RandomMonth.getRandomMonth();
-                    case 2 -> T02_Lottery.getLotteryPrize(cliInput);
+                    case 2 -> T02_Lottery.lotteryPrize(cliInput);
                     case 3 -> T03_GameRockPaperScissors.playRockPaperScissor(cliInput);
                     case 4 -> T04_PointInsideCircle.checkPointInsideCircle(cliInput);
-                    case 5 -> T05_AreaRegularPolygon.calculateAndDisplayPolygonArea(cliInput);
-                    case 6 -> T06_UnicodeConversion.convertAndDisplayUnicode(cliInput);
-                    case 7 -> T07_HexToBinary.convertAndDisplayBinary(cliInput);
-                    case 8 -> T08_OrderThreeCities.orderAndDisplayCities(cliInput);
+                    case 5 -> T05_AreaRegularPolygon.calculatePolygonArea(cliInput);
+                    case 6 -> T06_UnicodeConversion.convertCharToUnicode(cliInput);
+                    case 7 -> T07_HexToBinary.convertHextToBinary(cliInput);
+                    case 8 -> T08_OrderThreeCities.orderCities(cliInput);
+                    case 9 -> T09_GenerateVehiclePlateNumbers.generatePlateNumber();
                     case 0 -> {
                         System.out.println("Exiting the program...");
                         break;

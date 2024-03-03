@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author mrasadatik
  */
 public class T07_HexToBinary {
-    public static void convertAndDisplayBinary(Scanner scanner) {
+    public static void convertHextToBinary(Scanner scanner) {
         System.out.print("Enter a hex digit: ");
         char hexDigit = scanner.next().charAt(0);
         

@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author mrasadatik
  */
 public class T02_Lottery {
-    public static void getLotteryPrize(Scanner scanner) {
+    public static void lotteryPrize(Scanner scanner) {
         Random random = new Random();
         int lotteryNumber = random.nextInt(900) + 100;
 
