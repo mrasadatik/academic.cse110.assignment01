@@ -10,7 +10,7 @@ This project includes solutions for various programming tasks given in assignmen
 - ✅ Assignment 3: [Game - Rock, Paper, Scissors](./app/src/main/java/academic/cse110/assignment01/assignments/T03_GameRockPaperScissors.java)
 - ✅ Assignment 4: [Point Inside Circle](./app/src/main/java/academic/cse110/assignment01/assignments/T04_PointInsideCircle.java)
 - ✅ Assignment 5: [Area of a Regular Polygon](./app/src/main/java/academic/cse110/assignment01/assignments/T05_AreaRegularPolygon.java)
-- 🚧 Assignment 6: Unicode Conversion
+- ✅ Assignment 6: [Unicode Conversion](./app/src/main/java/academic/cse110/assignment01/assignments/T06_UnicodeConversion.java)
 - 🚧 Assignment 7: Hex to Binary
 - 🚧 Assignment 8: Order Three Cities
 - 🚧 Assignment 9: Generate Vehicle Plate Numbers
