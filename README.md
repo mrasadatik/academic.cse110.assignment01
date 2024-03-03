@@ -19,7 +19,7 @@ This project includes solutions for various programming tasks given in assignmen
 - ✅ Assignment 12: [Compute e](./app/src/main/java/academic/cse110/assignment01/assignments/T12_ComputeE.java)
 - ✅ Assignment 13: [Decimal to Octal](./app/src/main/java/academic/cse110/assignment01/assignments/T13_DecimalToOctal.java)
 - ✅ Assignment 14: [Computer Architecture: Bit-Level Operations](./app/src/main/java/academic/cse110/assignment01/assignments/T14_BitLevelOperations.java)
-- 🚧 Assignment 15: Statistics: Compute Mean and Standard Deviation
+- ✅ Assignment 15: [Statistics: Compute Mean and Standard Deviation](./app/src/main/java/academic/cse110/assignment01/assignments/T15_ComputeMeanAndStandardDeviation.java)
 
 ### Author
 
