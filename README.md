@@ -1,12 +1,13 @@
+
 **Assignments**
 
-This project includes solutions for various programming tasks given in assignment 01 of CSE110 course. I can access the assignments through a menu system within the main program.
+This project includes solutions for various programming tasks given in assignment 01 of CSE110 course. I can access the assignments through a menu system within the [main program](./app/src/main/java/academic/cse110/assignment01/App.java).
 
 **Checklist**
 
-- ✅ Assignment 1: Random Month
-- ✅ Assignment 2: Lottery
-- ✅ Assignment 3: Game - Rock, Paper, Scissors
+- ✅ Assignment 1: Random Month ➡ [Source code](./app/src/main/java/academic/cse110/assignment01/assignments/T01_RandomMonth.java)
+- ✅ Assignment 2: Lottery ➡ [Source code](.app/src/main/java/academic/cse110/assignment01/assignments/T02_Lottery.java)
+- ✅ Assignment 3: Game - Rock, Paper, Scissors ➡ [Source code](./app/src/main/java/academic/cse110/assignment01/assignments/T03_GameRockPaperScissors.java)
 - 🚧 Assignment 4: Point Inside Circle
 - 🚧 Assignment 5: Area of a Regular Polygon
 - 🚧 Assignment 6: Unicode Conversion
