@@ -5,6 +5,7 @@ import academic.cse110.assignment01.assignments.T01_RandomMonth;
 import academic.cse110.assignment01.assignments.T02_Lottery;
 import academic.cse110.assignment01.assignments.T03_GameRockPaperScissors;
 import academic.cse110.assignment01.assignments.T04_PointInsideCircle;
+import academic.cse110.assignment01.assignments.T05_AreaRegularPolygon;
 
 public class App {
     public static void main(String[] args) {
@@ -30,6 +31,7 @@ public class App {
                 System.out.println("\t2. Lottery");
                 System.out.println("\t3. Game - Rock, Paper, Scissors");
                 System.out.println("\t4. Point Inside Circle");
+                System.out.println("\t5. Area of a Regular Polygon");
                 
                 System.out.println("\t0. Exit");
                 System.out.print("\nEnter your choice: ");
@@ -44,6 +46,7 @@ public class App {
                     case 2 -> T02_Lottery.getLotteryPrize(cliInput);
                     case 3 -> T03_GameRockPaperScissors.playRockPaperScissor(cliInput);
                     case 4 -> T04_PointInsideCircle.checkPointInsideCircle(cliInput);
+                    case 5 -> T05_AreaRegularPolygon.calculateAndDisplayPolygonArea(cliInput);
                     case 0 -> {
                         System.out.println("Exiting the program...");
                         break;
