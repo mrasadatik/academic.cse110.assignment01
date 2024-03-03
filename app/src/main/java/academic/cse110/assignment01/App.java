@@ -4,6 +4,7 @@ import java.util.Scanner;
 import academic.cse110.assignment01.assignments.T01_RandomMonth;
 import academic.cse110.assignment01.assignments.T02_Lottery;
 import academic.cse110.assignment01.assignments.T03_GameRockPaperScissors;
+import academic.cse110.assignment01.assignments.T04_PointInsideCircle;
 
 public class App {
     public static void main(String[] args) {
@@ -28,6 +29,7 @@ public class App {
                 System.out.println("\t1. Random month");
                 System.out.println("\t2. Lottery");
                 System.out.println("\t3. Game - Rock, Paper, Scissors");
+                System.out.println("\t4. Point Inside Circle");
                 
                 System.out.println("\t0. Exit");
                 System.out.print("\nEnter your choice: ");
@@ -38,15 +40,10 @@ public class App {
                 System.out.println();
                 
                 switch(assignmentChoice) {
-                    case 1 -> {
-                        String[] t01_randomMonth = T01_RandomMonth.getRandomMonth();
-                        int t01_selectedRandomNumber = Integer.parseInt(t01_randomMonth[0]);
-                        String t01_monthFromRandomNumber = t01_randomMonth[1];
-                        
-                        System.out.println("The corresponding month name for the randomly generated number \"" + t01_selectedRandomNumber + "\" is \"" + t01_monthFromRandomNumber + "\"");
-                    }
+                    case 1 -> T01_RandomMonth.getRandomMonth();
                     case 2 -> T02_Lottery.getLotteryPrize(cliInput);
                     case 3 -> T03_GameRockPaperScissors.playRockPaperScissor(cliInput);
+                    case 4 -> T04_PointInsideCircle.checkPointInsideCircle(cliInput);
                     case 0 -> {
                         System.out.println("Exiting the program...");
                         break;

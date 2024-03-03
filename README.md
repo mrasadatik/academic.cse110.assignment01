@@ -8,7 +8,7 @@ This project includes solutions for various programming tasks given in assignmen
 - ✅ Assignment 1: [Random Month](./app/src/main/java/academic/cse110/assignment01/assignments/T01_RandomMonth.java)
 - ✅ Assignment 2: [Lottery](.app/src/main/java/academic/cse110/assignment01/assignments/T02_Lottery.java)
 - ✅ Assignment 3: [Game - Rock, Paper, Scissors](./app/src/main/java/academic/cse110/assignment01/assignments/T03_GameRockPaperScissors.java)
-- 🚧 Assignment 4: Point Inside Circle
+- 🚧 Assignment 4: [Point Inside Circle](.//app/src/main/java/academic/cse110/assignment01/assignments/T04_PointInsideCircle.java_)
 - 🚧 Assignment 5: Area of a Regular Polygon
 - 🚧 Assignment 6: Unicode Conversion
 - 🚧 Assignment 7: Hex to Binary
