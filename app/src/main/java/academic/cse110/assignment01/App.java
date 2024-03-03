@@ -14,6 +14,7 @@ import academic.cse110.assignment01.assignments.T10_ASCIICharacterTable;
 import academic.cse110.assignment01.assignments.T11_CompareLoans;
 import academic.cse110.assignment01.assignments.T12_ComputeE;
 import academic.cse110.assignment01.assignments.T13_DecimalToOctal;
+import academic.cse110.assignment01.assignments.T14_BitLevelOperations;
 
 public class App {
     public static void main(String[] args) {
@@ -48,6 +49,7 @@ public class App {
                 System.out.println("\t11. Financial Application: Compare Loans");
                 System.out.println("\t12. Compute e");
                 System.out.println("\t13. Decimal to Octal");
+                System.out.println("\t14. Computer Architecture: Bit-Level Operations");
                 
                 System.out.println("\t0. Exit");
                 System.out.print("\nEnter your choice: ");
@@ -71,6 +73,7 @@ public class App {
                     case 11 -> T11_CompareLoans.compareLoans(cliInput);
                     case 12 -> T12_ComputeE.computeEValues(cliInput);
                     case 13 -> T13_DecimalToOctal.convertDecimalToOctal(cliInput);
+                    case 14 -> T14_BitLevelOperations.showBits(cliInput);
                     case 0 -> {
                         System.out.println("Exiting the program...");
                         break;
